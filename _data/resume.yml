@@ -1,0 +1,141 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Virginia Bauman"
+  picture: "/assets/icons/headshot.png"
+  email: ""
+  phone: "(424) 744-0348"
+  website: "https://gget.com"
+  summary: >
+    I'm a start-up executive and founder. I'm also a digital product manager and owner that has often focused on commerce. I own a small community focused brick and mortar business. I am a leader who focuses on management infrastructure, strategy, and organizational health.
+  location:
+    city: "Los Angeles"
+    countryCode: "US"
+    region: "California"
+  profiles:
+    - network: "Twitter"
+      username: "vaisfourlovers"
+      url: "twitter.com/vaisfourlovers"
+    - network: "LinkedIn"
+      username: "Virginia Bauman"
+      url: "https://www.linkedin.com/in/virginiabauman"
+work:
+  - company: "Go Get Em Tiger"
+    position: "Adviser, Director of Ecomm, VP of Strategy"
+    website: "https://gget.com"
+    startDate: "2018-1-01"
+    endDate: ""
+    summary: >
+      I advise Go Get Em Tiger on everything I can. We have implemented new company-wide management infrastructure to building and implementing a web distribution strategy. I've helped with fundraising, resource planning, culture, communications and of course engineering.
+    highlights:
+      - "Launched GGET.com"
+      - "Built out web, social, and support teams."
+      - "Introduced and implemented OKRs, Executive Coaching, Fundraising."
+  - company: "Cuties"
+    position: "Owner and CEO"
+    website: "https://instagram.com/cutiesla"
+    startDate: "2016-1-01"
+    endDate: ""
+    summary: >
+      Cuties is a queer focused community organization and retail coffee bar in East Los Angeles.
+    highlights:
+      - "Powered non-goal oriented queer community events for 5 years running."
+      - "Created a queer run coffee bar that is a tent-pole for the queer community in LA"
+      - "Used email marketing to connect a disparate isolated community of marginalized individuals"
+  - company: "Blue Bottle Coffee"
+    position: "Director of Digital Product"
+    website: "bluebottlecoffee.com"
+    startDate: "2014-4-01"
+    endDate: "2015-5-01"
+    summary: >
+      Worked for one year on the transition of the Tonx team to the Blue Bottle Digital department subsequently powering the software behind Blue Bottle's online offerings, production tools, and supply chain management.
+    highlights:
+      - "Negotiated and closed M&A process."
+      - "Integrated Tonx team and product into Blue Bottle to power daily roasting processes, internal ordering, and all ecommerce."
+      - "Did user research and business discovery on Office Coffee Market"
+      - "Managed and defined iOS App for Club Members to use in-store (never launched)"
+  - company: "Tonx Coffee"
+    position: "Cofounder and CEO"
+    website: "tonx.org"
+    startDate: "2011-4-01"
+    endDate: "2014-4-01"
+    summary: >
+      Online Verticle Subscription-Only Coffee Company
+    highlights:
+      - "Raised $3mm in capital."
+      - "Sold to Blue Bottle Coffee in 2014, every single team member shared in the purchase revenue."
+      - "Software infrastructure powers Blue Bottle to this day."
+  - company: "Foodzie"
+    position: "Cofounder and CTO"
+    website: "foodzie.com"
+    startDate: "2008-1-01"
+    endDate: "2011-4-01"
+    summary: >
+      Drop-ship and Subscription Marketplace for artisan food producers.
+    highlights:
+      - "Raised $2mm from First Round Capital, and Softech VC"
+      - "Graduated from Techstars, 2008"
+      - "Built Ecommerce Engine from Scratch to Power Drop-ship Marketplace"
+
+education:
+  - institution: "Virginia Polytechnic And State University"
+    area: "Computer Science"
+    studyType: "Bachelor of Science"
+    startDate: "2002-09-01"
+    endDate: "2007-04-01"
+
+skills:
+  - name: "Leadership"
+    keywords:
+      - "Coaching"
+      - "Fundraising"
+      - "Strategy"
+  - name: "Company Building"
+    keywords:
+      - "Customer Development"
+      - "Jobs to Be Done"
+      - "Outcome Driven Development"
+      - "Customer Research"
+  - name: "Management"
+    keywords:
+      - "Shape-Up"
+      - "Jobs to Be Done"
+      - "OKRs"
+      - "Career Planning"
+      - "Team Satisfaction"
+      - "Process Driven Execution"
+  - name: "Marketing"
+    keywords:
+      - "Growth Focus"
+      - "Email/FB/Pinterest/etc"
+      - "SEO Arbitrage"
+      - "Community Building"
+  - name: "Software Engineering"
+    keywords:
+      - "Speed Optimization"
+      - "Accessibility"
+      - "Javascript"
+      - "React"
+      - "Rails"
+      - "AWS"
+
+references:
+  - name: "Kyle Glanville"
+    reference: >
+      What Virginia has brought to our team as an advisor is difficult to quantify. It is not simply that she is an expert in online retail, but that she has a way of clarifying muddy waters and cutting through nonsense incredibly quickly.
+  - name: "Ryan Brown"
+    reference: >
+      With all of her experience, it would be easy for Virginia to give strict recommendations and advice, but the world is nuanced, and Virginia knows that everyone has to find their own way. I go back to Virginia again and again not because she tells me what to do, but because she asks me what I need to answer. She helps me understand the implicit tradeoffs and opportunity costs, and puts the ball back into my court with a defining question that only I can answer. This has an empowering effect where I come to trust myself for the decisions I've made.
+  - name: "Sarah Doll"
+    reference: >
+      I learned things that year both fundamental and professional that I will carry with me forever.
+  - name: "Scott Rocher"
+    reference: >
+      It takes a leader with business skills, unwavering passion, and focus to build a company from concept to acquisition.
+  - name: "Danielle Harris"
+    reference: >
+      Virginia is the most efficient, effectively compassionate, and hard working leader I've come across. She’s able to coach, manage, research, and innovate with ease across multiple platforms and teams, always reminding stakeholders of the bigger business goals generating maximum productivity in any given situation.
+  - name: "Tam Vo"
+    reference: >
+      Very rarely do you encounter leaders like Virginia—she leads by letting you choose your own direction, while encouraging, teaching, and inspiring you along the way. Because of this leadership quality, it's impossible not to want to create the best work possible and take on more challenges when she's at the helm of a project.
